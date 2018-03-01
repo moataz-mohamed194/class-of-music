@@ -1,0 +1,14 @@
+.firstalbum , .secondalbum , .thirdalbum{display:inline-block; }
+.fourthalbum , .fifthalbum , .sixthalbum{display:inline-block; }
+.seventhalbum , .eighthalbum ,.ninthalbum{display:inline-block;}
+.firstalbum {margin-left:50px }
+.secondalbum {margin-left:50px}
+.thirdalbum{margin-left:50px}
+.fourthalbum {margin-left:50px }
+.fifthalbum {margin-left:50px}
+.sixthalbum{margin-left:50px}
+.seventhalbum {margin-left:50px }
+.eighthalbum {margin-left:50px}
+.ninthalbum{margin-left:50px}
+.end{margin-top: 20px}
+#album{text-align:center;}
